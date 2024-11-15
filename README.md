@@ -14,7 +14,7 @@
 
 ## Ejercicio 3 --> Ficha de una Receta de Cocina
     - 'index1.html': Este ejercicio contine un titulo, una lista de ingredientes, una imagen  y una 
-                    tabla de procedimientos a seguir
+                    tabla de procedimientos a seguir para completar la receta a desarrollar.
 
 
 
