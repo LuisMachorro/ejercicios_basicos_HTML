@@ -12,10 +12,9 @@
                     general de la acategoria aala que pertence cada hobbie, tambien un enlace a una pagina representativa referente a la categoria.
 
 
-## Ejercicio 3 --> Portafilio de Evidencia
-    - 'index1.html': Este ejercicio contiiene un archivo html en el cual
-                    se establecio una estruturia basica que incluye secciones
-                    del contenido general para estructura mi portafolio.
+## Ejercicio 3 --> Ficha de una Receta de Cocina
+    - 'index1.html': Este ejercicio contine un titulo, una lista de ingredientes, una imagen  y una 
+                    tabla de procedimientos a seguir
 
 
 
